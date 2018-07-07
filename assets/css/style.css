@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("../images/DM.jpg"); 
+    background-size: 100vw 100vh;  
+}
+h1 {
+    font-size: 50px;
+    padding-top: 20px;
+    color: #000;
+}
+.start {
+    float: center;
+}
+
+p {
+    color: #3E2723;
+}
+#quiz-area {
+    background: lightgray;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.footer,
+.push {
+  height: 40px;
+  text-align: center;
+}
